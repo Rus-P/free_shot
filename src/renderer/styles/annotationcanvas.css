@@ -1,0 +1,10 @@
+html, body { background: transparent !important; }
+
+.annotation-canvas-full {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  cursor: crosshair;
+  background: transparent;
+}
